@@ -22,6 +22,7 @@ This project analyzes electric vehicle adoption trends across the United States 
 <img width="1932" height="1092" alt="image" src="https://github.com/user-attachments/assets/5fb053f1-4027-4f72-9d63-ab93f7f2989b" />
 
 
+
 **How to Use**
 
 - Download the .pbix file
