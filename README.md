@@ -15,11 +15,12 @@ This project analyzes electric vehicle adoption trends across the United States 
 - Excel (data cleaning)
 - Dataset
 
-Electric Vehicle Population dataset (public dataset)[https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data?select=Electric_Vehicle_Population_Data.csv]
+[Electric Vehicle Population dataset (public dataset)](https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data?select=Electric_Vehicle_Population_Data.csv)
 
-Dashboard Preview
+**Dashboard Preview**
 
 <img width="996" height="576" alt="Electric_Vehicle_Analysis" src="https://github.com/user-attachments/assets/bfd7c9d8-fe84-4a32-8165-7e31970b9cd8" />
+
 
 **How to Use**
 
