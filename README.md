@@ -19,7 +19,7 @@ This project analyzes electric vehicle adoption trends across the United States 
 
 **Dashboard Preview**
 
-<img width="996" height="576" alt="Electric_Vehicle_Analysis" src="https://github.com/user-attachments/assets/bfd7c9d8-fe84-4a32-8165-7e31970b9cd8" />
+<img width="1932" height="1092" alt="image" src="https://github.com/user-attachments/assets/5fb053f1-4027-4f72-9d63-ab93f7f2989b" />
 
 
 **How to Use**
